@@ -6,6 +6,7 @@ Navigate to
 `%localappdata%\Ride\Saved\SaveGames\<id>`
 
 Drop the two files in there
+
 <img width="629" height="295" alt="image" src="https://github.com/user-attachments/assets/1ad460bd-99db-45a4-8763-fe2f6f0d52e3" />
 
 ## Enable more players
